@@ -75,8 +75,3 @@ chair_price += store[goods['Стул']][1]['price']
 chair_price += store[goods['Стул']][2]['price']
 chair_cost = chair_quantity * chair_price
 print('Стул -', chair_quantity, 'шт, стоимость', chair_cost, 'руб')
-
-# WARNING для знающих циклы: БЕЗ циклов. Да, с переменными; да, неэффективно; да, копипаста.
-# Это задание на ручное вычисление - что бы потом понять как работают циклы и насколько с ними проще жить.
-
-# TODO здесь ваш код
