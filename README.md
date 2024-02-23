@@ -17,7 +17,7 @@ labs on Python
 
 Написаны функции в каждом файле
 
-![](https://imgur.com/a/ONEc9k3)
+![](https://i.imgur.com/o5N9G9J.png)
 
 ## Шпаргалка по работе с командами `git`
 
