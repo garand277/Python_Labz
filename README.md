@@ -17,7 +17,7 @@ labs on Python
 
 Написаны функции в каждом файле
 
-
+https://imgur.com/wnXQrrm
 
 ## Шпаргалка по работе с командами `git`
 
