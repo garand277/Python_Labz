@@ -25,7 +25,10 @@ https://clck.ru/36SgWV
 
 ## Скриншоты результатов
 
-
+![](https://i.imgur.com/NzxBkUr.png)
+![](https://i.imgur.com/G9D5o2a.png)
+![](https://i.imgur.com/c8bS01q.png)
+![](https://i.imgur.com/cTgSwrl.png)
 
 ## Ссылки на используемые материалы
 
