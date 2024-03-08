@@ -7,6 +7,7 @@ def f1():
             counter+=1
     print(counter, "\n")
 
+
 def f2():
     x = 9**8 + 3**5 - 9
     s = ''
@@ -17,24 +18,20 @@ def f2():
     print(s.count("2"), "\n")
 
 
-
-def prime(n):
-    for i in range(2, int(n**0.5) + 1):
-        if n % i == 0:          
-            return False
-    return True
-
 def f3():
-    primes = set()
-    for i in range(3, int(50000000**0.25) + 1):
-        if prime(i):
-            primes.add(i)
-    for i in range(45000000, 50000001):
-        p = i
+    for x in range(45000000, 50000001):
+        p = x
         while p % 2 == 0:
-            p //= 2
-        if int(p**0.25) in primes and (int(p**0.25))**4 == p:
-            print(i)
+            p = p//2
+        if (p ** 0.25) == int(p ** 0.25):
+            z = 0
+            for i in range(2, int(p ** 0.5)):
+                if p % i == 0:
+                    if i % 2 == 1:
+                        z += 1
+            if z == 1:
+                print(x)
+
 
 f1()
 f2()
